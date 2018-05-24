@@ -1,0 +1,1065 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="eebf63f6-db5d-4446-8b5c-7b4816ff9405" name="Default" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="375">
+      <file leaf-file-name="StackedHistogram.cs" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/Diagrams/StackedHistogram.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="648">
+              <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+              <folding>
+                <marker date="1527184508315" expanded="false" signature="6:198" ph="..." />
+                <marker date="1527184508315" expanded="true" signature="218:1543" ph="{...}" />
+                <marker date="1527184508315" expanded="true" signature="272:1541" ph="{...}" />
+                <marker date="1527184508315" expanded="true" signature="386:702" ph="{...}" />
+                <marker date="1527184508315" expanded="true" signature="409:654" ph="/* for (int k = 0; k &lt; data.Count; k++)//идём по каждой серии ... */" />
+                <marker date="1527184508315" expanded="true" signature="751:1356" ph="{...}" />
+                <marker date="1527184508315" expanded="true" signature="814:1346" ph="{...}" />
+                <marker date="1527184508315" expanded="true" signature="1138:1332" ph="{...}" />
+                <marker date="1527184508315" expanded="true" signature="1410:1443" ph="{...}" />
+                <marker date="1527184508315" expanded="true" signature="1502:1535" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AbstractDiagram.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Diagrams/AbstractDiagram.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="619">
+              <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+              <folding>
+                <marker date="1527184528055" expanded="false" signature="6:202" ph="..." />
+                <marker date="1527184528055" expanded="true" signature="223:915" ph="{...}" />
+                <marker date="1527184528055" expanded="true" signature="253:338" ph="{...}" />
+                <marker date="1527184528055" expanded="true" signature="390:913" ph="{...}" />
+                <marker date="1527184528055" expanded="true" signature="819:897" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="NormalizedHistogram.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Diagrams/NormalizedHistogram.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="8" selection-start-line="8" selection-end-line="8" />
+              <folding>
+                <marker date="1527184527963" expanded="false" signature="6:64" ph="..." />
+                <marker date="1527184527963" expanded="true" signature="84:511" ph="{...}" />
+                <marker date="1527184527963" expanded="true" signature="141:509" ph="{...}" />
+                <marker date="1527184527963" expanded="true" signature="369:402" ph="{...}" />
+                <marker date="1527184527963" expanded="true" signature="461:494" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="PieChart.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Diagrams/PieChart.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+              <folding>
+                <marker date="1527184528104" expanded="false" signature="6:64" ph="..." />
+                <marker date="1527184528104" expanded="true" signature="84:494" ph="{...}" />
+                <marker date="1527184528104" expanded="true" signature="130:492" ph="{...}" />
+                <marker date="1527184528104" expanded="true" signature="274:307" ph="{...}" />
+                <marker date="1527184528104" expanded="true" signature="361:394" ph="{...}" />
+                <marker date="1527184528104" expanded="true" signature="453:486" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="MainWindow.xaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WDiagrams/MainWindow.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="612">
+              <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+              <folding>
+                <marker date="1526834881743" expanded="true" signature="0:1609" ph="&lt;&lt;Grid&gt;&#10;        &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition/&gt;&#10;            &lt;RowDefinition/&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;        &lt;StackPanel Grid.Row = &quot;0&quot; Orientation = &quot;Horizontal&quot; HorizontalAlignment=&quot;Center&quot;&gt;&#10;            &lt;Button Content = &quot;PieChart&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;PieChartButtonClick&quot;/&gt;&#10;            &lt;Button Content = &quot;NormalizedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;NormalizedHistogramButtonClick&quot;/&gt;&#10;            &lt;Button Content = &quot;StackedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;StackedHistogramButtonCLick&quot;/&gt;&#10;        &lt;/StackPanel&gt;&#10;        &lt;Button Grid.Row=&quot;1&quot; HorizontalAlignment=&quot;Center&quot;&#10;                VerticalAlignment=&quot;Center&quot;&#10;                Content = &quot;Exit&quot;&#10;                Padding = &quot;10 3 10 3&quot;&#10;                Click=&quot;ExitButtonOnClick&quot;/&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+                <marker date="1526834881743" expanded="true" signature="452:1599" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition/&gt;&#10;            &lt;RowDefinition/&gt;&#10;        &lt;/Grid.RowDefinitions&gt; &lt;StackPanel Grid.Row = &quot;0&quot; Orientation = &quot;Horizontal&quot; HorizontalAlignment=&quot;Center&quot;&gt;&#10;            &lt;Button Content = &quot;PieChart&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;PieChartButtonClick&quot;/&gt;&#10;            &lt;Button Content = &quot;NormalizedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;NormalizedHistogramButtonClick&quot;/&gt;&#10;            &lt;Button Content = &quot;StackedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;StackedHistogramButtonCLick&quot;/&gt;&#10;        &lt;/StackPanel&gt; &lt;Button Grid.Row=&quot;1&quot; HorizontalAlignment=&quot;Center&quot;&#10;                VerticalAlignment=&quot;Center&quot;&#10;                Content = &quot;Exit&quot;&#10;                Padding = &quot;10 3 10 3&quot;&#10;                Click=&quot;ExitButtonOnClick&quot;/&gt;.../&gt;" />
+                <marker date="1526834881743" expanded="true" signature="467:577" ph="&lt;&lt;RowDefinition/&gt; &lt;RowDefinition/&gt;.../&gt;" />
+                <marker date="1526834881743" expanded="true" signature="586:1371" ph="&lt;&lt;Button Content = &quot;PieChart&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;PieChartButtonClick&quot;/&gt; &lt;Button Content = &quot;NormalizedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;NormalizedHistogramButtonClick&quot;/&gt; &lt;Button Content = &quot;StackedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;StackedHistogramButtonCLick&quot;/&gt;.../&gt;" />
+                <marker date="1526834881743" expanded="true" signature="682:883" ph="&lt;.../&gt;" />
+                <marker date="1526834881743" expanded="true" signature="896:1119" ph="&lt;.../&gt;" />
+                <marker date="1526834881743" expanded="true" signature="1132:1349" ph="&lt;.../&gt;" />
+                <marker date="1526834881743" expanded="true" signature="1380:1587" ph="&lt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DrawDiagramDialog.xaml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WDiagrams/DrawDiagramDialog.xaml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="702">
+              <caret line="39" column="55" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="55" />
+              <folding>
+                <marker date="1526840990884" expanded="true" signature="0:2882" ph="&lt;&lt;Grid&gt;&#10;        &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;1*&quot; /&gt;&#10;            &lt;ColumnDefinition Width=&quot;1*&quot; /&gt;&#10;            &lt;ColumnDefinition Width=&quot;5*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;2*&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt;&#10;        &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;1*&quot; /&gt;&#10;            &lt;RowDefinition Height=&quot;3*&quot;/&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;        &lt;TextBox x:Name=&quot;TitleListBox&quot; IsReadOnly=&quot;True&quot;&#10;                 Grid.Column=&quot;0&quot; Grid.Row=&quot;0&quot; Grid.ColumnSpan=&quot;4&quot;&#10;                 FontSize=&quot;20&quot;&#10;                 Margin=&quot;5&quot;&#10;                 Padding=&quot;20&quot;&#10;                 VerticalAlignment=&quot;Center&quot; &#10;                 /&gt;&#10;        &lt;StackPanel Grid.Column=&quot;0&quot; Grid.Row=&quot;1&quot;&gt;&#10;            &lt;TextBox x:Name=&quot;TextBoxWithData&quot;&#10;                     Margin=&quot;5&quot; &#10;                     Padding=&quot;10&quot; /&gt;&#10;            &lt;ListView x:Name=&quot;ListBoxWithData&quot;&#10;                      Margin=&quot;5&quot; &#10;                      Padding=&quot;70&quot;&#10;                      SelectionChanged=&quot;ListBoxWithData_OnSelectionChanged&quot;&gt;&#10;                &lt;ListView.ItemTemplate&gt;&#10;                    &lt;DataTemplate&gt;&#10;                        &lt;StackPanel&gt;&#10;                            &lt;TextBlock&#10;                                Text=&quot;{Binding Path=DataInfo.Data}&quot; /&gt;&#10;                        &lt;/StackPanel&gt;&#10;                    &lt;/DataTemplate&gt;&#10;                &lt;/ListView.ItemTemplate&gt;&#10;            &lt;/ListView&gt;&#10;        &lt;/StackPanel&gt;&#10;        &lt;StackPanel Grid.Column=&quot;1&quot; Grid.Row=&quot;1&quot;&gt;&#10;            &lt;Button x:Name=&quot;AddButton&quot; Content=&quot;Add&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;AddButtonOnClick&quot; /&gt;&#10;            &lt;Button x:Name=&quot;SeriesButton&quot; Content=&quot;Series&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;SeriesButtonOnClick&quot; /&gt;&#10;            &lt;Button x:Name=&quot;DeleteButton&quot; Content=&quot;Delete&quot;&#10;                    Margin=&quot;5&quot;&#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;DeleteButtonOnClick&quot; /&gt;&#10;            &lt;Button x:Name=&quot;DrawButton&quot; Content=&quot;Draw&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;DrawButtonOnClick&quot; /&gt;&#10;        &lt;/StackPanel&gt;&#10;        &lt;Canvas x:Name=&quot;MainCanvas&quot;&#10;                Grid.Column=&quot;2&quot; Grid.Row=&quot;1&quot;&#10;                Margin=&quot;5&quot;&#10;                Height=&quot;260&quot; &#10;                Background=&quot;White&quot;/&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+                <marker date="1526840990884" expanded="true" signature="519:2872" ph="&lt;&lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;1*&quot; /&gt;&#10;            &lt;ColumnDefinition Width=&quot;1*&quot; /&gt;&#10;            &lt;ColumnDefinition Width=&quot;5*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;2*&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt; &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;1*&quot; /&gt;&#10;            &lt;RowDefinition Height=&quot;3*&quot;/&gt;&#10;        &lt;/Grid.RowDefinitions&gt; &lt;TextBox x:Name=&quot;TitleListBox&quot; IsReadOnly=&quot;True&quot;&#10;                 Grid.Column=&quot;0&quot; Grid.Row=&quot;0&quot; Grid.ColumnSpan=&quot;4&quot;&#10;                 FontSize=&quot;20&quot;&#10;                 Margin=&quot;5&quot;&#10;                 Padding=&quot;20&quot;&#10;                 VerticalAlignment=&quot;Center&quot; &#10;                 /&gt; &lt;StackPanel Grid.Column=&quot;0&quot; Grid.Row=&quot;1&quot;&gt;&#10;            &lt;TextBox x:Name=&quot;TextBoxWithData&quot;&#10;                     Margin=&quot;5&quot; &#10;                     Padding=&quot;10&quot; /&gt;&#10;            &lt;ListView x:Name=&quot;ListBoxWithData&quot;&#10;                      Margin=&quot;5&quot; &#10;                      Padding=&quot;70&quot;&#10;                      SelectionChanged=&quot;ListBoxWithData_OnSelectionChanged&quot;&gt;&#10;                &lt;ListView.ItemTemplate&gt;&#10;                    &lt;DataTemplate&gt;&#10;                        &lt;StackPanel&gt;&#10;                            &lt;TextBlock&#10;                                Text=&quot;{Binding Path=DataInfo.Data}&quot; /&gt;&#10;                        &lt;/StackPanel&gt;&#10;                    &lt;/DataTemplate&gt;&#10;                &lt;/ListView.ItemTemplate&gt;&#10;            &lt;/ListView&gt;&#10;        &lt;/StackPanel&gt; &lt;StackPanel Grid.Column=&quot;1&quot; Grid.Row=&quot;1&quot;&gt;&#10;            &lt;Button x:Name=&quot;AddButton&quot; Content=&quot;Add&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;AddButtonOnClick&quot; /&gt;&#10;            &lt;Button x:Name=&quot;SeriesButton&quot; Content=&quot;Series&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;SeriesButtonOnClick&quot; /&gt;&#10;            &lt;Button x:Name=&quot;DeleteButton&quot; Content=&quot;Delete&quot;&#10;                    Margin=&quot;5&quot;&#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;DeleteButtonOnClick&quot; /&gt;&#10;            &lt;Button x:Name=&quot;DrawButton&quot; Content=&quot;Draw&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;DrawButtonOnClick&quot; /&gt;&#10;        &lt;/StackPanel&gt; &lt;Canvas x:Name=&quot;MainCanvas&quot;&#10;                Grid.Column=&quot;2&quot; Grid.Row=&quot;1&quot;&#10;                Margin=&quot;5&quot;&#10;                Height=&quot;260&quot; &#10;                Background=&quot;White&quot;/&gt;.../&gt;" />
+                <marker date="1526840990884" expanded="true" signature="534:766" ph="&lt;&lt;ColumnDefinition Width=&quot;1*&quot; /&gt; &lt;ColumnDefinition Width=&quot;1*&quot; /&gt; &lt;ColumnDefinition Width=&quot;5*&quot;/&gt; &lt;ColumnDefinition Width=&quot;2*&quot;/&gt;.../&gt;" />
+                <marker date="1526840990884" expanded="true" signature="775:910" ph="&lt;&lt;RowDefinition Height=&quot;1*&quot; /&gt; &lt;RowDefinition Height=&quot;3*&quot;/&gt;.../&gt;" />
+                <marker date="1526840990884" expanded="true" signature="919:1187" ph="&lt;.../&gt;" />
+                <marker date="1526840990884" expanded="true" signature="1196:1929" ph="&lt;&lt;TextBox x:Name=&quot;TextBoxWithData&quot;&#10;                     Margin=&quot;5&quot; &#10;                     Padding=&quot;10&quot; /&gt; &lt;ListView x:Name=&quot;ListBoxWithData&quot;&#10;                      Margin=&quot;5&quot; &#10;                      Padding=&quot;70&quot;&#10;                      SelectionChanged=&quot;ListBoxWithData_OnSelectionChanged&quot;&gt;&#10;                &lt;ListView.ItemTemplate&gt;&#10;                    &lt;DataTemplate&gt;&#10;                        &lt;StackPanel&gt;&#10;                            &lt;TextBlock&#10;                                Text=&quot;{Binding Path=DataInfo.Data}&quot; /&gt;&#10;                        &lt;/StackPanel&gt;&#10;                    &lt;/DataTemplate&gt;&#10;                &lt;/ListView.ItemTemplate&gt;&#10;            &lt;/ListView&gt;.../&gt;" />
+                <marker date="1526840990884" expanded="true" signature="1250:1353" ph="&lt;.../&gt;" />
+                <marker date="1526840990884" expanded="true" signature="1366:1907" ph="&lt;&lt;ListView.ItemTemplate&gt;&#10;                    &lt;DataTemplate&gt;&#10;                        &lt;StackPanel&gt;&#10;                            &lt;TextBlock&#10;                                Text=&quot;{Binding Path=DataInfo.Data}&quot; /&gt;&#10;                        &lt;/StackPanel&gt;&#10;                    &lt;/DataTemplate&gt;&#10;                &lt;/ListView.ItemTemplate&gt;.../&gt;" />
+                <marker date="1526840990884" expanded="true" signature="1563:1883" ph="&lt;&lt;DataTemplate&gt;&#10;                        &lt;StackPanel&gt;&#10;                            &lt;TextBlock&#10;                                Text=&quot;{Binding Path=DataInfo.Data}&quot; /&gt;&#10;                        &lt;/StackPanel&gt;&#10;                    &lt;/DataTemplate&gt;.../&gt;" />
+                <marker date="1526840990884" expanded="true" signature="1607:1842" ph="&lt;&lt;StackPanel&gt;&#10;                            &lt;TextBlock&#10;                                Text=&quot;{Binding Path=DataInfo.Data}&quot; /&gt;&#10;                        &lt;/StackPanel&gt;.../&gt;" />
+                <marker date="1526840990884" expanded="true" signature="1646:1806" ph="&lt;&lt;TextBlock&#10;                                Text=&quot;{Binding Path=DataInfo.Data}&quot; /&gt;.../&gt;" />
+                <marker date="1526840990884" expanded="true" signature="1687:1768" ph="&lt;.../&gt;" />
+                <marker date="1526840990884" expanded="true" signature="1938:2685" ph="&lt;&lt;Button x:Name=&quot;AddButton&quot; Content=&quot;Add&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;AddButtonOnClick&quot; /&gt; &lt;Button x:Name=&quot;SeriesButton&quot; Content=&quot;Series&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;SeriesButtonOnClick&quot; /&gt; &lt;Button x:Name=&quot;DeleteButton&quot; Content=&quot;Delete&quot;&#10;                    Margin=&quot;5&quot;&#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;DeleteButtonOnClick&quot; /&gt; &lt;Button x:Name=&quot;DrawButton&quot; Content=&quot;Draw&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;DrawButtonOnClick&quot; /&gt;.../&gt;" />
+                <marker date="1526840990884" expanded="true" signature="1992:2145" ph="&lt;.../&gt;" />
+                <marker date="1526840990884" expanded="true" signature="2158:2320" ph="&lt;.../&gt;" />
+                <marker date="1526840990884" expanded="true" signature="2333:2494" ph="&lt;.../&gt;" />
+                <marker date="1526840990884" expanded="true" signature="2507:2663" ph="&lt;.../&gt;" />
+                <marker date="1526840990884" expanded="true" signature="2694:2860" ph="&lt;.../&gt;" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DrawDiagramDialog.xaml.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/WDiagrams/DrawDiagramDialog.xaml.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="277">
+              <caret line="57" column="51" selection-start-line="57" selection-start-column="51" selection-end-line="57" selection-end-column="51" />
+              <folding>
+                <marker date="1527003671038" expanded="false" signature="6:220" ph="..." />
+                <marker date="1527003671038" expanded="true" signature="241:3949" ph="{...}" />
+                <marker date="1527003671038" expanded="true" signature="295:3947" ph="{...}" />
+                <marker date="1527003671038" expanded="true" signature="436:537" ph="{...}" />
+                <marker date="1527003671038" expanded="true" signature="613:1116" ph="{...}" />
+                <marker date="1527003671038" expanded="true" signature="717:1106" ph="{...}" />
+                <marker date="1527003671038" expanded="true" signature="956:1092" ph="{...}" />
+                <marker date="1527003671038" expanded="true" signature="1215:1354" ph="{...}" />
+                <marker date="1527003671038" expanded="true" signature="1428:2770" ph="{...}" />
+                <marker date="1527003671038" expanded="true" signature="1573:1687" ph="{...}" />
+                <marker date="1527003671038" expanded="true" signature="1714:2495" ph="{...}" />
+                <marker date="1527003671038" expanded="true" signature="2846:3290" ph="{...}" />
+                <marker date="1527003671038" expanded="true" signature="2991:3105" ph="{...}" />
+                <marker date="1527003671038" expanded="true" signature="3392:3511" ph="{...}" />
+                <marker date="1527003671038" expanded="true" signature="3530:3682" ph="/// Защита от ввода не чисел ... " />
+                <marker date="1527003671038" expanded="true" signature="3781:3941" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Diagrams.sln" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Diagrams.sln">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="396">
+              <caret line="22" selection-start-line="22" selection-end-line="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="AssemblyInfo.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Diagrams/Properties/AssemblyInfo.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state>
+              <folding>
+                <marker date="1525808705984" expanded="false" signature="6:62" ph="..." />
+                <marker date="1525808705984" expanded="true" signature="64:251" ph="/* General Information about an assembly is controlled through the following ... */" />
+                <marker date="1525808705984" expanded="true" signature="554:764" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+                <marker date="1525808705984" expanded="true" signature="939:1266" ph="/* Version information for an assembly consists of the following four values: ... */" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="DataProvider.cs" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/Diagrams/DataProvider.cs">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="576">
+              <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+              <folding>
+                <marker date="1527184528003" expanded="false" signature="6:129" ph="..." />
+                <marker date="1527184528003" expanded="true" signature="149:943" ph="{...}" />
+                <marker date="1527184528003" expanded="true" signature="188:941" ph="{...}" />
+                <marker date="1527184528003" expanded="true" signature="310:420" ph="/// Для одной серии ... " />
+                <marker date="1527184528003" expanded="true" signature="463:509" ph="{...}" />
+                <marker date="1527184528003" expanded="true" signature="519:636" ph="/// Для нескольких серий ... " />
+                <marker date="1527184528003" expanded="true" signature="687:736" ph="{...}" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/Diagrams/Properties/AssemblyInfo.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Diagrams/NormalizedHistogram.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Diagrams/PieChart.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/DiagramApp/App.xaml.cs" root0="SKIP_INSPECTION" />
+    <setting file="file://$PROJECT_DIR$/DiagramApp/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WDiagrams/App.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Diagrams/AbstractDiagram.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Diagrams/DataProvider.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WDiagrams/MainWindow.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WDiagrams/DrawDiagramDialog.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WDiagrams/App.xaml.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WDiagrams/DrawDiagramDialog.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/WDiagrams/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/Diagrams/StackedHistogram.cs" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/App/App.xaml" root0="FORCE_HIGHLIGHTING" />
+    <setting file="file://$PROJECT_DIR$/App/MainWindow.xaml" root0="FORCE_HIGHLIGHTING" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/Diagrams/Class1.cs" />
+        <option value="$PROJECT_DIR$/Diagrams/Class2.cs" />
+        <option value="$PROJECT_DIR$/Diagrams/App.xml" />
+        <option value="$PROJECT_DIR$/App/App.cs" />
+        <option value="$PROJECT_DIR$/App/App.xaml" />
+        <option value="$PROJECT_DIR$/DiagramApp/App.cs" />
+        <option value="$PROJECT_DIR$/DiagramApp/App.xaml.cs" />
+        <option value="$PROJECT_DIR$/WDiagrams/SH.cs" />
+        <option value="$PROJECT_DIR$/Diagrams/Properties/NormalizedHistogram.cs" />
+        <option value="$PROJECT_DIR$/WDiagrams/DataSeries.cs" />
+        <option value="$PROJECT_DIR$/Diagrams/DataSeries.cs" />
+        <option value="$PROJECT_DIR$/Diagrams/DataSeriesp.cs" />
+        <option value="$PROJECT_DIR$/WDiagrams/MainWindow.xaml" />
+        <option value="$PROJECT_DIR$/WDiagrams/DrawDiagramDialog.xaml" />
+        <option value="$PROJECT_DIR$/WDiagrams/MainWindow.xaml.cs" />
+        <option value="$PROJECT_DIR$/WDiagrams/DrawDiagramDialog.xaml.cs" />
+        <option value="$PROJECT_DIR$/Diagrams/AbstractDiagram.cs" />
+        <option value="$PROJECT_DIR$/Diagrams/DataProvider.cs" />
+        <option value="$PROJECT_DIR$/Diagrams/NormalizedHistogram.cs" />
+        <option value="$PROJECT_DIR$/Diagrams/PieChart.cs" />
+        <option value="$PROJECT_DIR$/Diagrams/StackedHistogram.cs" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsFlowSettings">
+    <service-enabled>true</service-enabled>
+    <exe-path />
+    <other-services-enabled>true</other-services-enabled>
+    <auto-save>true</auto-save>
+  </component>
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-4" />
+    <option name="width" value="1942" />
+    <option name="height" value="1102" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="SolutionExplorer" proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="SolutionExplorer">
+        <subPane>
+          <expand>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Diagrams (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Diagrams (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="Diagrams" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Diagrams (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="WDiagrams" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+            <path>
+              <item name="" type="13324e5d:SolutionExplorerViewPane$ProjectViewPaneTreeStructure$createRoot$1" />
+              <item name="Diagrams (2 projects)" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="WDiagrams" type="977d5f41:SolutionExplorerNodeRider" />
+              <item name="DrawDiagramDialog.xaml" type="977d5f41:SolutionExplorerNodeRider" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+        <option name="show-file-system" value="false" />
+        <option name="show-all-items" value="false" />
+      </pane>
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Rider.ProjectViewActivator.IsNotFirstRun" value="true" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../3 лаба/3ЛАБА/WpfApplication1(маша)/WpfApplication1.sln" />
+    <property name="node.js.detected.package.stylelint" value="true" />
+    <property name="node.js.path.for.package.stylelint" value="project" />
+    <property name="node.js.selected.package.stylelint" value="" />
+    <property name="settings.editor.selected.configurable" value="preferences.updates" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager">
+    <configuration name="Default" type="DotNetProject" factoryName=".NET Project">
+      <option name="EXE_PATH" value="$PROJECT_DIR$/WDiagrams/bin/Debug/WDiagrams.exe" />
+      <option name="PROGRAM_PARAMETERS" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/WDiagrams/bin/Debug" />
+      <option name="PASS_PARENT_ENVS" value="1" />
+      <option name="USE_EXTERNAL_CONSOLE" value="0" />
+      <option name="USE_MONO" value="0" />
+      <option name="PROJECT_PATH" value="$PROJECT_DIR$/WDiagrams/WDiagrams.csproj" />
+      <option name="PROJECT_EXE_PATH_TRACKING" value="1" />
+      <option name="PROJECT_ARGUMENTS_TRACKING" value="1" />
+      <option name="PROJECT_WORKING_DIRECTORY_TRACKING" value="1" />
+      <option name="PROJECT_KIND" value="Console" />
+      <option name="PROJECT_TFM" value=".NETFramework,Version=v4.6.1" />
+    </configuration>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Natasha\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="eebf63f6-db5d-4446-8b5c-7b4816ff9405" name="Default" comment="" />
+      <created>1525808708942</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1525808708942</updated>
+      <workItem from="1525808974950" duration="903000" />
+      <workItem from="1525965792254" duration="3187000" />
+      <workItem from="1526303208014" duration="4575000" />
+      <workItem from="1526745014226" duration="9166000" />
+      <workItem from="1526809917059" duration="28916000" />
+      <workItem from="1527003264695" duration="2330000" />
+      <workItem from="1527006306164" duration="829000" />
+      <workItem from="1527180402650" duration="4701000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="54607000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="9" y="129" width="1942" height="1102" extended-state="1" />
+    <editor active="true" />
+    <layout>
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="right" id="Errors In Solution" order="3" />
+      <window_info anchor="bottom" id="Event Log" order="11" sideWeight="0.5026853" side_tool="true" visible="true" weight="0.18689582" />
+      <window_info anchor="bottom" id="Unit Tests" order="10" />
+      <window_info anchor="bottom" id="Database Changes" order="9" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="13" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.49731472" weight="0.3060296" />
+      <window_info anchor="bottom" id="Terminal" order="12" sideWeight="0.49898443" weight="0.32885087" />
+      <window_info anchor="bottom" id="NuGet" order="7" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.10932476" />
+      <window_info anchor="bottom" id="Docker" order="8" show_stripe_button="false" />
+      <window_info anchor="right" id="Database" order="4" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.4" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="right" id="Commander" order="0" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="bottom" id="XAML Preview" order="15" sideWeight="0.49678662" weight="0.48777506" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Build" order="14" />
+      <window_info anchor="bottom" id="Find" order="1" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="UnityProjectConfiguration" isUnityUI="false" />
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <option name="time" value="1" />
+    </breakpoint-manager>
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/Diagrams.sln">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diagrams/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525808705984" expanded="false" signature="6:62" ph="..." />
+            <marker date="1525808705984" expanded="true" signature="64:251" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1525808705984" expanded="true" signature="554:764" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1525808705984" expanded="true" signature="939:1266" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WDiagrams/MainWindow.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="59" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
+          <folding>
+            <marker date="1526841699177" expanded="false" signature="6:109" ph="..." />
+            <marker date="1526841699177" expanded="true" signature="137:215" ph="/// Interaction logic for MainWindow.xaml ... " />
+            <marker date="1526841699177" expanded="true" signature="260:1256" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="294:349" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="358:428" ph="/// Текущий тип диаграммы ... " />
+            <marker date="1526841699177" expanded="true" signature="563:690" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="777:916" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="1000:1135" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="1209:1250" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diagrams/DataProvider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="666">
+          <caret line="40" column="1" selection-start-line="40" selection-start-column="1" selection-end-line="40" selection-end-column="1" />
+          <folding>
+            <marker date="1527184528003" expanded="false" signature="6:129" ph="..." />
+            <marker date="1527184528003" expanded="true" signature="149:943" ph="{...}" />
+            <marker date="1527184528003" expanded="true" signature="188:941" ph="{...}" />
+            <marker date="1527184528003" expanded="true" signature="310:420" ph="/// Для одной серии ... " />
+            <marker date="1527184528003" expanded="true" signature="463:509" ph="{...}" />
+            <marker date="1527184528003" expanded="true" signature="519:636" ph="/// Для нескольких серий ... " />
+            <marker date="1527184528003" expanded="true" signature="687:736" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WDiagrams/DrawDiagramDialog.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="31" column="17" selection-start-line="31" selection-start-column="17" selection-end-line="31" selection-end-column="17" />
+          <folding>
+            <marker date="1527003671038" expanded="false" signature="6:220" ph="..." />
+            <marker date="1527003671038" expanded="true" signature="241:3949" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="295:3947" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="436:537" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="613:1116" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="717:1106" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="956:1092" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="1215:1354" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="1428:2770" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="1573:1687" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="1714:2495" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="2846:3290" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="2991:3105" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="3392:3511" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="3530:3682" ph="/// Защита от ввода не чисел ... " />
+            <marker date="1527003671038" expanded="true" signature="3781:3941" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diagrams/PieChart.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WDiagrams/MainWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+          <folding>
+            <marker date="1526834881743" expanded="true" signature="0:1609" ph="&lt;&lt;Grid&gt;&#10;        &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition/&gt;&#10;            &lt;RowDefinition/&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;        &lt;StackPanel Grid.Row = &quot;0&quot; Orientation = &quot;Horizontal&quot; HorizontalAlignment=&quot;Center&quot;&gt;&#10;            &lt;Button Content = &quot;PieChart&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;PieChartButtonClick&quot;/&gt;&#10;            &lt;Button Content = &quot;NormalizedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;NormalizedHistogramButtonClick&quot;/&gt;&#10;            &lt;Button Content = &quot;StackedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;StackedHistogramButtonCLick&quot;/&gt;&#10;        &lt;/StackPanel&gt;&#10;        &lt;Button Grid.Row=&quot;1&quot; HorizontalAlignment=&quot;Center&quot;&#10;                VerticalAlignment=&quot;Center&quot;&#10;                Content = &quot;Exit&quot;&#10;                Padding = &quot;10 3 10 3&quot;&#10;                Click=&quot;ExitButtonOnClick&quot;/&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="452:1599" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition/&gt;&#10;            &lt;RowDefinition/&gt;&#10;        &lt;/Grid.RowDefinitions&gt; &lt;StackPanel Grid.Row = &quot;0&quot; Orientation = &quot;Horizontal&quot; HorizontalAlignment=&quot;Center&quot;&gt;&#10;            &lt;Button Content = &quot;PieChart&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;PieChartButtonClick&quot;/&gt;&#10;            &lt;Button Content = &quot;NormalizedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;NormalizedHistogramButtonClick&quot;/&gt;&#10;            &lt;Button Content = &quot;StackedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;StackedHistogramButtonCLick&quot;/&gt;&#10;        &lt;/StackPanel&gt; &lt;Button Grid.Row=&quot;1&quot; HorizontalAlignment=&quot;Center&quot;&#10;                VerticalAlignment=&quot;Center&quot;&#10;                Content = &quot;Exit&quot;&#10;                Padding = &quot;10 3 10 3&quot;&#10;                Click=&quot;ExitButtonOnClick&quot;/&gt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="467:577" ph="&lt;&lt;RowDefinition/&gt; &lt;RowDefinition/&gt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="586:1371" ph="&lt;&lt;Button Content = &quot;PieChart&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;PieChartButtonClick&quot;/&gt; &lt;Button Content = &quot;NormalizedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;NormalizedHistogramButtonClick&quot;/&gt; &lt;Button Content = &quot;StackedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;StackedHistogramButtonCLick&quot;/&gt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="682:883" ph="&lt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="896:1119" ph="&lt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="1132:1349" ph="&lt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="1380:1587" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WDiagrams/DrawDiagramDialog.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="28" selection-start-line="35" selection-start-column="28" selection-end-line="35" selection-end-column="28" />
+          <folding>
+            <marker date="1526840990884" expanded="true" signature="0:2882" ph="&lt;&lt;Grid&gt;&#10;        &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;1*&quot; /&gt;&#10;            &lt;ColumnDefinition Width=&quot;1*&quot; /&gt;&#10;            &lt;ColumnDefinition Width=&quot;5*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;2*&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt;&#10;        &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;1*&quot; /&gt;&#10;            &lt;RowDefinition Height=&quot;3*&quot;/&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;        &lt;TextBox x:Name=&quot;TitleListBox&quot; IsReadOnly=&quot;True&quot;&#10;                 Grid.Column=&quot;0&quot; Grid.Row=&quot;0&quot; Grid.ColumnSpan=&quot;4&quot;&#10;                 FontSize=&quot;20&quot;&#10;                 Margin=&quot;5&quot;&#10;                 Padding=&quot;20&quot;&#10;                 VerticalAlignment=&quot;Center&quot; &#10;                 /&gt;&#10;        &lt;StackPanel Grid.Column=&quot;0&quot; Grid.Row=&quot;1&quot;&gt;&#10;            &lt;TextBox x:Name=&quot;TextBoxWithData&quot;&#10;                     Margin=&quot;5&quot; &#10;                     Padding=&quot;10&quot; /&gt;&#10;            &lt;ListView x:Name=&quot;ListBoxWithData&quot;&#10;                      Margin=&quot;5&quot; &#10;                      Padding=&quot;70&quot;&#10;                      SelectionChanged=&quot;ListBoxWithData_OnSelectionChanged&quot;&gt;&#10;                &lt;ListView.ItemTemplate&gt;&#10;                    &lt;DataTemplate&gt;&#10;                        &lt;StackPanel&gt;&#10;                            &lt;TextBlock&#10;                                Text=&quot;{Binding Path=DataInfo.Data}&quot; /&gt;&#10;                        &lt;/StackPanel&gt;&#10;                    &lt;/DataTemplate&gt;&#10;                &lt;/ListView.ItemTemplate&gt;&#10;            &lt;/ListView&gt;&#10;        &lt;/StackPanel&gt;&#10;        &lt;StackPanel Grid.Column=&quot;1&quot; Grid.Row=&quot;1&quot;&gt;&#10;            &lt;Button x:Name=&quot;AddButton&quot; Content=&quot;Add&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;AddButtonOnClick&quot; /&gt;&#10;            &lt;Button x:Name=&quot;SeriesButton&quot; Content=&quot;Series&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;SeriesButtonOnClick&quot; /&gt;&#10;            &lt;Button x:Name=&quot;DeleteButton&quot; Content=&quot;Delete&quot;&#10;                    Margin=&quot;5&quot;&#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;DeleteButtonOnClick&quot; /&gt;&#10;            &lt;Button x:Name=&quot;DrawButton&quot; Content=&quot;Draw&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;DrawButtonOnClick&quot; /&gt;&#10;        &lt;/StackPanel&gt;&#10;        &lt;Canvas x:Name=&quot;MainCanvas&quot;&#10;                Grid.Column=&quot;2&quot; Grid.Row=&quot;1&quot;&#10;                Margin=&quot;5&quot;&#10;                Height=&quot;260&quot; &#10;                Background=&quot;White&quot;/&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="519:2872" ph="&lt;&lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;1*&quot; /&gt;&#10;            &lt;ColumnDefinition Width=&quot;1*&quot; /&gt;&#10;            &lt;ColumnDefinition Width=&quot;5*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;2*&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt; &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;1*&quot; /&gt;&#10;            &lt;RowDefinition Height=&quot;3*&quot;/&gt;&#10;        &lt;/Grid.RowDefinitions&gt; &lt;TextBox x:Name=&quot;TitleListBox&quot; IsReadOnly=&quot;True&quot;&#10;                 Grid.Column=&quot;0&quot; Grid.Row=&quot;0&quot; Grid.ColumnSpan=&quot;4&quot;&#10;                 FontSize=&quot;20&quot;&#10;                 Margin=&quot;5&quot;&#10;                 Padding=&quot;20&quot;&#10;                 VerticalAlignment=&quot;Center&quot; &#10;                 /&gt; &lt;StackPanel Grid.Column=&quot;0&quot; Grid.Row=&quot;1&quot;&gt;&#10;            &lt;TextBox x:Name=&quot;TextBoxWithData&quot;&#10;                     Margin=&quot;5&quot; &#10;                     Padding=&quot;10&quot; /&gt;&#10;            &lt;ListView x:Name=&quot;ListBoxWithData&quot;&#10;                      Margin=&quot;5&quot; &#10;                      Padding=&quot;70&quot;&#10;                      SelectionChanged=&quot;ListBoxWithData_OnSelectionChanged&quot;&gt;&#10;                &lt;ListView.ItemTemplate&gt;&#10;                    &lt;DataTemplate&gt;&#10;                        &lt;StackPanel&gt;&#10;                            &lt;TextBlock&#10;                                Text=&quot;{Binding Path=DataInfo.Data}&quot; /&gt;&#10;                        &lt;/StackPanel&gt;&#10;                    &lt;/DataTemplate&gt;&#10;                &lt;/ListView.ItemTemplate&gt;&#10;            &lt;/ListView&gt;&#10;        &lt;/StackPanel&gt; &lt;StackPanel Grid.Column=&quot;1&quot; Grid.Row=&quot;1&quot;&gt;&#10;            &lt;Button x:Name=&quot;AddButton&quot; Content=&quot;Add&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;AddButtonOnClick&quot; /&gt;&#10;            &lt;Button x:Name=&quot;SeriesButton&quot; Content=&quot;Series&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;SeriesButtonOnClick&quot; /&gt;&#10;            &lt;Button x:Name=&quot;DeleteButton&quot; Content=&quot;Delete&quot;&#10;                    Margin=&quot;5&quot;&#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;DeleteButtonOnClick&quot; /&gt;&#10;            &lt;Button x:Name=&quot;DrawButton&quot; Content=&quot;Draw&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;DrawButtonOnClick&quot; /&gt;&#10;        &lt;/StackPanel&gt; &lt;Canvas x:Name=&quot;MainCanvas&quot;&#10;                Grid.Column=&quot;2&quot; Grid.Row=&quot;1&quot;&#10;                Margin=&quot;5&quot;&#10;                Height=&quot;260&quot; &#10;                Background=&quot;White&quot;/&gt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="534:766" ph="&lt;&lt;ColumnDefinition Width=&quot;1*&quot; /&gt; &lt;ColumnDefinition Width=&quot;1*&quot; /&gt; &lt;ColumnDefinition Width=&quot;5*&quot;/&gt; &lt;ColumnDefinition Width=&quot;2*&quot;/&gt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="775:910" ph="&lt;&lt;RowDefinition Height=&quot;1*&quot; /&gt; &lt;RowDefinition Height=&quot;3*&quot;/&gt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="919:1187" ph="&lt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="1196:1929" ph="&lt;&lt;TextBox x:Name=&quot;TextBoxWithData&quot;&#10;                     Margin=&quot;5&quot; &#10;                     Padding=&quot;10&quot; /&gt; &lt;ListView x:Name=&quot;ListBoxWithData&quot;&#10;                      Margin=&quot;5&quot; &#10;                      Padding=&quot;70&quot;&#10;                      SelectionChanged=&quot;ListBoxWithData_OnSelectionChanged&quot;&gt;&#10;                &lt;ListView.ItemTemplate&gt;&#10;                    &lt;DataTemplate&gt;&#10;                        &lt;StackPanel&gt;&#10;                            &lt;TextBlock&#10;                                Text=&quot;{Binding Path=DataInfo.Data}&quot; /&gt;&#10;                        &lt;/StackPanel&gt;&#10;                    &lt;/DataTemplate&gt;&#10;                &lt;/ListView.ItemTemplate&gt;&#10;            &lt;/ListView&gt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="1250:1353" ph="&lt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="1366:1907" ph="&lt;&lt;ListView.ItemTemplate&gt;&#10;                    &lt;DataTemplate&gt;&#10;                        &lt;StackPanel&gt;&#10;                            &lt;TextBlock&#10;                                Text=&quot;{Binding Path=DataInfo.Data}&quot; /&gt;&#10;                        &lt;/StackPanel&gt;&#10;                    &lt;/DataTemplate&gt;&#10;                &lt;/ListView.ItemTemplate&gt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="1563:1883" ph="&lt;&lt;DataTemplate&gt;&#10;                        &lt;StackPanel&gt;&#10;                            &lt;TextBlock&#10;                                Text=&quot;{Binding Path=DataInfo.Data}&quot; /&gt;&#10;                        &lt;/StackPanel&gt;&#10;                    &lt;/DataTemplate&gt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="1607:1842" ph="&lt;&lt;StackPanel&gt;&#10;                            &lt;TextBlock&#10;                                Text=&quot;{Binding Path=DataInfo.Data}&quot; /&gt;&#10;                        &lt;/StackPanel&gt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="1646:1806" ph="&lt;&lt;TextBlock&#10;                                Text=&quot;{Binding Path=DataInfo.Data}&quot; /&gt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="1687:1768" ph="&lt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="1938:2685" ph="&lt;&lt;Button x:Name=&quot;AddButton&quot; Content=&quot;Add&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;AddButtonOnClick&quot; /&gt; &lt;Button x:Name=&quot;SeriesButton&quot; Content=&quot;Series&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;SeriesButtonOnClick&quot; /&gt; &lt;Button x:Name=&quot;DeleteButton&quot; Content=&quot;Delete&quot;&#10;                    Margin=&quot;5&quot;&#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;DeleteButtonOnClick&quot; /&gt; &lt;Button x:Name=&quot;DrawButton&quot; Content=&quot;Draw&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;DrawButtonOnClick&quot; /&gt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="1992:2145" ph="&lt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="2158:2320" ph="&lt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="2333:2494" ph="&lt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="2507:2663" ph="&lt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="2694:2860" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WDiagrams/MainWindow.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="630">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+          <folding>
+            <marker date="1526841699177" expanded="false" signature="6:109" ph="..." />
+            <marker date="1526841699177" expanded="true" signature="137:215" ph="/// Interaction logic for MainWindow.xaml ... " />
+            <marker date="1526841699177" expanded="true" signature="260:1256" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="294:349" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="358:428" ph="/// Текущий тип диаграммы ... " />
+            <marker date="1526841699177" expanded="true" signature="563:690" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="777:916" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="1000:1135" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="1209:1250" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diagrams/DataProvider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="9" selection-start-line="16" selection-start-column="9" selection-end-line="16" selection-end-column="9" />
+          <folding>
+            <marker date="1527184528003" expanded="false" signature="6:129" ph="..." />
+            <marker date="1527184528003" expanded="true" signature="149:943" ph="{...}" />
+            <marker date="1527184528003" expanded="true" signature="188:941" ph="{...}" />
+            <marker date="1527184528003" expanded="true" signature="310:420" ph="/// Для одной серии ... " />
+            <marker date="1527184528003" expanded="true" signature="463:509" ph="{...}" />
+            <marker date="1527184528003" expanded="true" signature="519:636" ph="/// Для нескольких серий ... " />
+            <marker date="1527184528003" expanded="true" signature="687:736" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WDiagrams/DrawDiagramDialog.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="30" column="13" lean-forward="true" selection-start-line="30" selection-start-column="13" selection-end-line="30" selection-end-column="13" />
+          <folding>
+            <marker date="1527003671038" expanded="false" signature="6:220" ph="..." />
+            <marker date="1527003671038" expanded="true" signature="241:3949" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="295:3947" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="436:537" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="613:1116" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="717:1106" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="956:1092" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="1215:1354" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="1428:2770" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="1573:1687" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="1714:2495" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="2846:3290" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="2991:3105" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="3392:3511" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="3530:3682" ph="/// Защита от ввода не чисел ... " />
+            <marker date="1527003671038" expanded="true" signature="3781:3941" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diagrams/StackedHistogram.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="12" selection-start-line="8" selection-start-column="12" selection-end-line="8" selection-end-column="12" />
+          <folding>
+            <marker date="1527184508315" expanded="false" signature="6:198" ph="..." />
+            <marker date="1527184508315" expanded="true" signature="218:1543" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="272:1541" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="386:702" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="409:654" ph="/* for (int k = 0; k &lt; data.Count; k++)//идём по каждой серии ... */" />
+            <marker date="1527184508315" expanded="true" signature="751:1356" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="814:1346" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="1138:1332" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="1410:1443" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="1502:1535" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diagrams/AbstractDiagram.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="9" selection-start-line="21" selection-start-column="9" selection-end-line="21" selection-end-column="9" />
+          <folding>
+            <marker date="1527184528055" expanded="false" signature="6:202" ph="..." />
+            <marker date="1527184528055" expanded="true" signature="223:915" ph="{...}" />
+            <marker date="1527184528055" expanded="true" signature="253:338" ph="{...}" />
+            <marker date="1527184528055" expanded="true" signature="390:913" ph="{...}" />
+            <marker date="1527184528055" expanded="true" signature="819:897" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diagrams/PieChart.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="8" selection-start-line="4" selection-start-column="8" selection-end-line="4" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WDiagrams/MainWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding>
+            <marker date="1526834881743" expanded="true" signature="0:1609" ph="&lt;&lt;Grid&gt;&#10;        &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition/&gt;&#10;            &lt;RowDefinition/&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;        &lt;StackPanel Grid.Row = &quot;0&quot; Orientation = &quot;Horizontal&quot; HorizontalAlignment=&quot;Center&quot;&gt;&#10;            &lt;Button Content = &quot;PieChart&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;PieChartButtonClick&quot;/&gt;&#10;            &lt;Button Content = &quot;NormalizedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;NormalizedHistogramButtonClick&quot;/&gt;&#10;            &lt;Button Content = &quot;StackedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;StackedHistogramButtonCLick&quot;/&gt;&#10;        &lt;/StackPanel&gt;&#10;        &lt;Button Grid.Row=&quot;1&quot; HorizontalAlignment=&quot;Center&quot;&#10;                VerticalAlignment=&quot;Center&quot;&#10;                Content = &quot;Exit&quot;&#10;                Padding = &quot;10 3 10 3&quot;&#10;                Click=&quot;ExitButtonOnClick&quot;/&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="452:1599" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition/&gt;&#10;            &lt;RowDefinition/&gt;&#10;        &lt;/Grid.RowDefinitions&gt; &lt;StackPanel Grid.Row = &quot;0&quot; Orientation = &quot;Horizontal&quot; HorizontalAlignment=&quot;Center&quot;&gt;&#10;            &lt;Button Content = &quot;PieChart&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;PieChartButtonClick&quot;/&gt;&#10;            &lt;Button Content = &quot;NormalizedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;NormalizedHistogramButtonClick&quot;/&gt;&#10;            &lt;Button Content = &quot;StackedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;StackedHistogramButtonCLick&quot;/&gt;&#10;        &lt;/StackPanel&gt; &lt;Button Grid.Row=&quot;1&quot; HorizontalAlignment=&quot;Center&quot;&#10;                VerticalAlignment=&quot;Center&quot;&#10;                Content = &quot;Exit&quot;&#10;                Padding = &quot;10 3 10 3&quot;&#10;                Click=&quot;ExitButtonOnClick&quot;/&gt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="467:577" ph="&lt;&lt;RowDefinition/&gt; &lt;RowDefinition/&gt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="586:1371" ph="&lt;&lt;Button Content = &quot;PieChart&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;PieChartButtonClick&quot;/&gt; &lt;Button Content = &quot;NormalizedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;NormalizedHistogramButtonClick&quot;/&gt; &lt;Button Content = &quot;StackedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;StackedHistogramButtonCLick&quot;/&gt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="682:883" ph="&lt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="896:1119" ph="&lt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="1132:1349" ph="&lt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="1380:1587" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WDiagrams/MainWindow.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="378">
+          <caret line="21" column="5" selection-start-line="21" selection-start-column="5" selection-end-line="21" selection-end-column="5" />
+          <folding>
+            <marker date="1526841699177" expanded="false" signature="6:109" ph="..." />
+            <marker date="1526841699177" expanded="true" signature="137:215" ph="/// Interaction logic for MainWindow.xaml ... " />
+            <marker date="1526841699177" expanded="true" signature="260:1256" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="294:349" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="358:428" ph="/// Текущий тип диаграммы ... " />
+            <marker date="1526841699177" expanded="true" signature="563:690" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="777:916" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="1000:1135" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="1209:1250" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiagramApp/App.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/App.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diagrams/NormalizedHistogram.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="25" column="1" lean-forward="true" selection-start-line="25" selection-start-column="1" selection-end-line="25" selection-end-column="1" />
+          <folding>
+            <marker date="1527184527963" expanded="false" signature="6:64" ph="..." />
+            <marker date="1527184527963" expanded="true" signature="84:511" ph="{...}" />
+            <marker date="1527184527963" expanded="true" signature="141:509" ph="{...}" />
+            <marker date="1527184527963" expanded="true" signature="369:402" ph="{...}" />
+            <marker date="1527184527963" expanded="true" signature="461:494" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diagrams/StackedHistogram.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="6" selection-start-line="4" selection-start-column="6" selection-end-line="4" selection-end-column="6" />
+          <folding>
+            <marker date="1527184508315" expanded="false" signature="6:198" ph="..." />
+            <marker date="1527184508315" expanded="true" signature="218:1543" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="272:1541" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="386:702" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="409:654" ph="/* for (int k = 0; k &lt; data.Count; k++)//идём по каждой серии ... */" />
+            <marker date="1527184508315" expanded="true" signature="751:1356" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="814:1346" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="1138:1332" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="1410:1443" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="1502:1535" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WDiagrams/MainWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+          <folding>
+            <marker date="1526834881743" expanded="true" signature="0:1609" ph="&lt;&lt;Grid&gt;&#10;        &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition/&gt;&#10;            &lt;RowDefinition/&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;        &lt;StackPanel Grid.Row = &quot;0&quot; Orientation = &quot;Horizontal&quot; HorizontalAlignment=&quot;Center&quot;&gt;&#10;            &lt;Button Content = &quot;PieChart&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;PieChartButtonClick&quot;/&gt;&#10;            &lt;Button Content = &quot;NormalizedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;NormalizedHistogramButtonClick&quot;/&gt;&#10;            &lt;Button Content = &quot;StackedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;StackedHistogramButtonCLick&quot;/&gt;&#10;        &lt;/StackPanel&gt;&#10;        &lt;Button Grid.Row=&quot;1&quot; HorizontalAlignment=&quot;Center&quot;&#10;                VerticalAlignment=&quot;Center&quot;&#10;                Content = &quot;Exit&quot;&#10;                Padding = &quot;10 3 10 3&quot;&#10;                Click=&quot;ExitButtonOnClick&quot;/&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="452:1599" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition/&gt;&#10;            &lt;RowDefinition/&gt;&#10;        &lt;/Grid.RowDefinitions&gt; &lt;StackPanel Grid.Row = &quot;0&quot; Orientation = &quot;Horizontal&quot; HorizontalAlignment=&quot;Center&quot;&gt;&#10;            &lt;Button Content = &quot;PieChart&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;PieChartButtonClick&quot;/&gt;&#10;            &lt;Button Content = &quot;NormalizedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;NormalizedHistogramButtonClick&quot;/&gt;&#10;            &lt;Button Content = &quot;StackedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;StackedHistogramButtonCLick&quot;/&gt;&#10;        &lt;/StackPanel&gt; &lt;Button Grid.Row=&quot;1&quot; HorizontalAlignment=&quot;Center&quot;&#10;                VerticalAlignment=&quot;Center&quot;&#10;                Content = &quot;Exit&quot;&#10;                Padding = &quot;10 3 10 3&quot;&#10;                Click=&quot;ExitButtonOnClick&quot;/&gt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="467:577" ph="&lt;&lt;RowDefinition/&gt; &lt;RowDefinition/&gt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="586:1371" ph="&lt;&lt;Button Content = &quot;PieChart&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;PieChartButtonClick&quot;/&gt; &lt;Button Content = &quot;NormalizedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;NormalizedHistogramButtonClick&quot;/&gt; &lt;Button Content = &quot;StackedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;StackedHistogramButtonCLick&quot;/&gt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="682:883" ph="&lt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="896:1119" ph="&lt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="1132:1349" ph="&lt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="1380:1587" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WDiagrams/SH.cs" />
+    <entry file="file://$PROJECT_DIR$/DiagramApp/App.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/MainWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/App.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiagramApp/MainWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WDiagrams/MainWindow.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="16" column="10" selection-start-line="16" selection-start-column="10" selection-end-line="16" selection-end-column="10" />
+          <folding>
+            <marker date="1526841699177" expanded="false" signature="6:109" ph="..." />
+            <marker date="1526841699177" expanded="true" signature="137:215" ph="/// Interaction logic for MainWindow.xaml ... " />
+            <marker date="1526841699177" expanded="true" signature="260:1256" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="294:349" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="358:428" ph="/// Текущий тип диаграммы ... " />
+            <marker date="1526841699177" expanded="true" signature="563:690" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="777:916" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="1000:1135" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="1209:1250" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diagrams/StackedHistogram.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="34" selection-start-line="2" selection-start-column="34" selection-end-line="2" selection-end-column="34" />
+          <folding>
+            <marker date="1527184508315" expanded="false" signature="6:198" ph="..." />
+            <marker date="1527184508315" expanded="true" signature="218:1543" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="272:1541" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="386:702" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="409:654" ph="/* for (int k = 0; k &lt; data.Count; k++)//идём по каждой серии ... */" />
+            <marker date="1527184508315" expanded="true" signature="751:1356" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="814:1346" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="1138:1332" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="1410:1443" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="1502:1535" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/MainWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/App.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiagramApp/MainWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" lean-forward="true" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diagrams/Class2.cs" />
+    <entry file="file://$PROJECT_DIR$/Diagrams/Class1.cs" />
+    <entry file="file://$PROJECT_DIR$/App/App.cs" />
+    <entry file="file://$PROJECT_DIR$/DiagramApp/MainWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="216">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/MainWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="8" selection-start-line="9" selection-start-column="8" selection-end-line="9" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/App/App.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" selection-start-line="9" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/DiagramApp/App.cs" />
+    <entry file="file://$PROJECT_DIR$/DiagramApp/App.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="5" column="31" selection-start-line="5" selection-start-column="31" selection-end-line="5" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WDiagrams/SH.cs" />
+    <entry file="file://$PROJECT_DIR$/WDiagrams/MainWindow.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="27" column="59" selection-start-line="27" selection-start-column="59" selection-end-line="27" selection-end-column="59" />
+          <folding>
+            <marker date="1526841699177" expanded="false" signature="6:109" ph="..." />
+            <marker date="1526841699177" expanded="true" signature="137:215" ph="/// Interaction logic for MainWindow.xaml ... " />
+            <marker date="1526841699177" expanded="true" signature="260:1256" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="294:349" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="358:428" ph="/// Текущий тип диаграммы ... " />
+            <marker date="1526841699177" expanded="true" signature="563:690" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="777:916" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="1000:1135" ph="{...}" />
+            <marker date="1526841699177" expanded="true" signature="1209:1250" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WDiagrams/MainWindow.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="612">
+          <caret line="34" column="26" selection-start-line="34" selection-start-column="26" selection-end-line="34" selection-end-column="26" />
+          <folding>
+            <marker date="1526834881743" expanded="true" signature="0:1609" ph="&lt;&lt;Grid&gt;&#10;        &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition/&gt;&#10;            &lt;RowDefinition/&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;        &lt;StackPanel Grid.Row = &quot;0&quot; Orientation = &quot;Horizontal&quot; HorizontalAlignment=&quot;Center&quot;&gt;&#10;            &lt;Button Content = &quot;PieChart&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;PieChartButtonClick&quot;/&gt;&#10;            &lt;Button Content = &quot;NormalizedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;NormalizedHistogramButtonClick&quot;/&gt;&#10;            &lt;Button Content = &quot;StackedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;StackedHistogramButtonCLick&quot;/&gt;&#10;        &lt;/StackPanel&gt;&#10;        &lt;Button Grid.Row=&quot;1&quot; HorizontalAlignment=&quot;Center&quot;&#10;                VerticalAlignment=&quot;Center&quot;&#10;                Content = &quot;Exit&quot;&#10;                Padding = &quot;10 3 10 3&quot;&#10;                Click=&quot;ExitButtonOnClick&quot;/&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="452:1599" ph="&lt;&lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition/&gt;&#10;            &lt;RowDefinition/&gt;&#10;        &lt;/Grid.RowDefinitions&gt; &lt;StackPanel Grid.Row = &quot;0&quot; Orientation = &quot;Horizontal&quot; HorizontalAlignment=&quot;Center&quot;&gt;&#10;            &lt;Button Content = &quot;PieChart&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;PieChartButtonClick&quot;/&gt;&#10;            &lt;Button Content = &quot;NormalizedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;NormalizedHistogramButtonClick&quot;/&gt;&#10;            &lt;Button Content = &quot;StackedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;StackedHistogramButtonCLick&quot;/&gt;&#10;        &lt;/StackPanel&gt; &lt;Button Grid.Row=&quot;1&quot; HorizontalAlignment=&quot;Center&quot;&#10;                VerticalAlignment=&quot;Center&quot;&#10;                Content = &quot;Exit&quot;&#10;                Padding = &quot;10 3 10 3&quot;&#10;                Click=&quot;ExitButtonOnClick&quot;/&gt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="467:577" ph="&lt;&lt;RowDefinition/&gt; &lt;RowDefinition/&gt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="586:1371" ph="&lt;&lt;Button Content = &quot;PieChart&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;PieChartButtonClick&quot;/&gt; &lt;Button Content = &quot;NormalizedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;NormalizedHistogramButtonClick&quot;/&gt; &lt;Button Content = &quot;StackedHistogram&quot;&#10;                    Padding = &quot;10 3 10 3&quot;&#10;                    Margin = &quot;10&quot;&#10;                    VerticalAlignment=&quot;Center&quot;&#10;                    Click=&quot;StackedHistogramButtonCLick&quot;/&gt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="682:883" ph="&lt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="896:1119" ph="&lt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="1132:1349" ph="&lt;.../&gt;" />
+            <marker date="1526834881743" expanded="true" signature="1380:1587" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diagrams.sln">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="396">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diagrams/Properties/AssemblyInfo.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state>
+          <folding>
+            <marker date="1525808705984" expanded="false" signature="6:62" ph="..." />
+            <marker date="1525808705984" expanded="true" signature="64:251" ph="/* General Information about an assembly is controlled through the following ... */" />
+            <marker date="1525808705984" expanded="true" signature="554:764" ph="/* Setting ComVisible to false makes the types in this assembly not visible ... */" />
+            <marker date="1525808705984" expanded="true" signature="939:1266" ph="/* Version information for an assembly consists of the following four values: ... */" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WDiagrams/DrawDiagramDialog.xaml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="702">
+          <caret line="39" column="55" selection-start-line="39" selection-start-column="55" selection-end-line="39" selection-end-column="55" />
+          <folding>
+            <marker date="1526840990884" expanded="true" signature="0:2882" ph="&lt;&lt;Grid&gt;&#10;        &lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;1*&quot; /&gt;&#10;            &lt;ColumnDefinition Width=&quot;1*&quot; /&gt;&#10;            &lt;ColumnDefinition Width=&quot;5*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;2*&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt;&#10;        &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;1*&quot; /&gt;&#10;            &lt;RowDefinition Height=&quot;3*&quot;/&gt;&#10;        &lt;/Grid.RowDefinitions&gt;&#10;        &lt;TextBox x:Name=&quot;TitleListBox&quot; IsReadOnly=&quot;True&quot;&#10;                 Grid.Column=&quot;0&quot; Grid.Row=&quot;0&quot; Grid.ColumnSpan=&quot;4&quot;&#10;                 FontSize=&quot;20&quot;&#10;                 Margin=&quot;5&quot;&#10;                 Padding=&quot;20&quot;&#10;                 VerticalAlignment=&quot;Center&quot; &#10;                 /&gt;&#10;        &lt;StackPanel Grid.Column=&quot;0&quot; Grid.Row=&quot;1&quot;&gt;&#10;            &lt;TextBox x:Name=&quot;TextBoxWithData&quot;&#10;                     Margin=&quot;5&quot; &#10;                     Padding=&quot;10&quot; /&gt;&#10;            &lt;ListView x:Name=&quot;ListBoxWithData&quot;&#10;                      Margin=&quot;5&quot; &#10;                      Padding=&quot;70&quot;&#10;                      SelectionChanged=&quot;ListBoxWithData_OnSelectionChanged&quot;&gt;&#10;                &lt;ListView.ItemTemplate&gt;&#10;                    &lt;DataTemplate&gt;&#10;                        &lt;StackPanel&gt;&#10;                            &lt;TextBlock&#10;                                Text=&quot;{Binding Path=DataInfo.Data}&quot; /&gt;&#10;                        &lt;/StackPanel&gt;&#10;                    &lt;/DataTemplate&gt;&#10;                &lt;/ListView.ItemTemplate&gt;&#10;            &lt;/ListView&gt;&#10;        &lt;/StackPanel&gt;&#10;        &lt;StackPanel Grid.Column=&quot;1&quot; Grid.Row=&quot;1&quot;&gt;&#10;            &lt;Button x:Name=&quot;AddButton&quot; Content=&quot;Add&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;AddButtonOnClick&quot; /&gt;&#10;            &lt;Button x:Name=&quot;SeriesButton&quot; Content=&quot;Series&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;SeriesButtonOnClick&quot; /&gt;&#10;            &lt;Button x:Name=&quot;DeleteButton&quot; Content=&quot;Delete&quot;&#10;                    Margin=&quot;5&quot;&#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;DeleteButtonOnClick&quot; /&gt;&#10;            &lt;Button x:Name=&quot;DrawButton&quot; Content=&quot;Draw&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;DrawButtonOnClick&quot; /&gt;&#10;        &lt;/StackPanel&gt;&#10;        &lt;Canvas x:Name=&quot;MainCanvas&quot;&#10;                Grid.Column=&quot;2&quot; Grid.Row=&quot;1&quot;&#10;                Margin=&quot;5&quot;&#10;                Height=&quot;260&quot; &#10;                Background=&quot;White&quot;/&gt;&#10;    &lt;/Grid&gt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="519:2872" ph="&lt;&lt;Grid.ColumnDefinitions&gt;&#10;            &lt;ColumnDefinition Width=&quot;1*&quot; /&gt;&#10;            &lt;ColumnDefinition Width=&quot;1*&quot; /&gt;&#10;            &lt;ColumnDefinition Width=&quot;5*&quot;/&gt;&#10;            &lt;ColumnDefinition Width=&quot;2*&quot;/&gt;&#10;        &lt;/Grid.ColumnDefinitions&gt; &lt;Grid.RowDefinitions&gt;&#10;            &lt;RowDefinition Height=&quot;1*&quot; /&gt;&#10;            &lt;RowDefinition Height=&quot;3*&quot;/&gt;&#10;        &lt;/Grid.RowDefinitions&gt; &lt;TextBox x:Name=&quot;TitleListBox&quot; IsReadOnly=&quot;True&quot;&#10;                 Grid.Column=&quot;0&quot; Grid.Row=&quot;0&quot; Grid.ColumnSpan=&quot;4&quot;&#10;                 FontSize=&quot;20&quot;&#10;                 Margin=&quot;5&quot;&#10;                 Padding=&quot;20&quot;&#10;                 VerticalAlignment=&quot;Center&quot; &#10;                 /&gt; &lt;StackPanel Grid.Column=&quot;0&quot; Grid.Row=&quot;1&quot;&gt;&#10;            &lt;TextBox x:Name=&quot;TextBoxWithData&quot;&#10;                     Margin=&quot;5&quot; &#10;                     Padding=&quot;10&quot; /&gt;&#10;            &lt;ListView x:Name=&quot;ListBoxWithData&quot;&#10;                      Margin=&quot;5&quot; &#10;                      Padding=&quot;70&quot;&#10;                      SelectionChanged=&quot;ListBoxWithData_OnSelectionChanged&quot;&gt;&#10;                &lt;ListView.ItemTemplate&gt;&#10;                    &lt;DataTemplate&gt;&#10;                        &lt;StackPanel&gt;&#10;                            &lt;TextBlock&#10;                                Text=&quot;{Binding Path=DataInfo.Data}&quot; /&gt;&#10;                        &lt;/StackPanel&gt;&#10;                    &lt;/DataTemplate&gt;&#10;                &lt;/ListView.ItemTemplate&gt;&#10;            &lt;/ListView&gt;&#10;        &lt;/StackPanel&gt; &lt;StackPanel Grid.Column=&quot;1&quot; Grid.Row=&quot;1&quot;&gt;&#10;            &lt;Button x:Name=&quot;AddButton&quot; Content=&quot;Add&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;AddButtonOnClick&quot; /&gt;&#10;            &lt;Button x:Name=&quot;SeriesButton&quot; Content=&quot;Series&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;SeriesButtonOnClick&quot; /&gt;&#10;            &lt;Button x:Name=&quot;DeleteButton&quot; Content=&quot;Delete&quot;&#10;                    Margin=&quot;5&quot;&#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;DeleteButtonOnClick&quot; /&gt;&#10;            &lt;Button x:Name=&quot;DrawButton&quot; Content=&quot;Draw&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;DrawButtonOnClick&quot; /&gt;&#10;        &lt;/StackPanel&gt; &lt;Canvas x:Name=&quot;MainCanvas&quot;&#10;                Grid.Column=&quot;2&quot; Grid.Row=&quot;1&quot;&#10;                Margin=&quot;5&quot;&#10;                Height=&quot;260&quot; &#10;                Background=&quot;White&quot;/&gt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="534:766" ph="&lt;&lt;ColumnDefinition Width=&quot;1*&quot; /&gt; &lt;ColumnDefinition Width=&quot;1*&quot; /&gt; &lt;ColumnDefinition Width=&quot;5*&quot;/&gt; &lt;ColumnDefinition Width=&quot;2*&quot;/&gt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="775:910" ph="&lt;&lt;RowDefinition Height=&quot;1*&quot; /&gt; &lt;RowDefinition Height=&quot;3*&quot;/&gt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="919:1187" ph="&lt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="1196:1929" ph="&lt;&lt;TextBox x:Name=&quot;TextBoxWithData&quot;&#10;                     Margin=&quot;5&quot; &#10;                     Padding=&quot;10&quot; /&gt; &lt;ListView x:Name=&quot;ListBoxWithData&quot;&#10;                      Margin=&quot;5&quot; &#10;                      Padding=&quot;70&quot;&#10;                      SelectionChanged=&quot;ListBoxWithData_OnSelectionChanged&quot;&gt;&#10;                &lt;ListView.ItemTemplate&gt;&#10;                    &lt;DataTemplate&gt;&#10;                        &lt;StackPanel&gt;&#10;                            &lt;TextBlock&#10;                                Text=&quot;{Binding Path=DataInfo.Data}&quot; /&gt;&#10;                        &lt;/StackPanel&gt;&#10;                    &lt;/DataTemplate&gt;&#10;                &lt;/ListView.ItemTemplate&gt;&#10;            &lt;/ListView&gt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="1250:1353" ph="&lt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="1366:1907" ph="&lt;&lt;ListView.ItemTemplate&gt;&#10;                    &lt;DataTemplate&gt;&#10;                        &lt;StackPanel&gt;&#10;                            &lt;TextBlock&#10;                                Text=&quot;{Binding Path=DataInfo.Data}&quot; /&gt;&#10;                        &lt;/StackPanel&gt;&#10;                    &lt;/DataTemplate&gt;&#10;                &lt;/ListView.ItemTemplate&gt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="1563:1883" ph="&lt;&lt;DataTemplate&gt;&#10;                        &lt;StackPanel&gt;&#10;                            &lt;TextBlock&#10;                                Text=&quot;{Binding Path=DataInfo.Data}&quot; /&gt;&#10;                        &lt;/StackPanel&gt;&#10;                    &lt;/DataTemplate&gt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="1607:1842" ph="&lt;&lt;StackPanel&gt;&#10;                            &lt;TextBlock&#10;                                Text=&quot;{Binding Path=DataInfo.Data}&quot; /&gt;&#10;                        &lt;/StackPanel&gt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="1646:1806" ph="&lt;&lt;TextBlock&#10;                                Text=&quot;{Binding Path=DataInfo.Data}&quot; /&gt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="1687:1768" ph="&lt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="1938:2685" ph="&lt;&lt;Button x:Name=&quot;AddButton&quot; Content=&quot;Add&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;AddButtonOnClick&quot; /&gt; &lt;Button x:Name=&quot;SeriesButton&quot; Content=&quot;Series&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;SeriesButtonOnClick&quot; /&gt; &lt;Button x:Name=&quot;DeleteButton&quot; Content=&quot;Delete&quot;&#10;                    Margin=&quot;5&quot;&#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;DeleteButtonOnClick&quot; /&gt; &lt;Button x:Name=&quot;DrawButton&quot; Content=&quot;Draw&quot;&#10;                    Margin=&quot;5&quot; &#10;                    Padding=&quot;10&quot;&#10;                    Click=&quot;DrawButtonOnClick&quot; /&gt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="1992:2145" ph="&lt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="2158:2320" ph="&lt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="2333:2494" ph="&lt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="2507:2663" ph="&lt;.../&gt;" />
+            <marker date="1526840990884" expanded="true" signature="2694:2860" ph="&lt;.../&gt;" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/WDiagrams/DrawDiagramDialog.xaml.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="277">
+          <caret line="57" column="51" selection-start-line="57" selection-start-column="51" selection-end-line="57" selection-end-column="51" />
+          <folding>
+            <marker date="1527003671038" expanded="false" signature="6:220" ph="..." />
+            <marker date="1527003671038" expanded="true" signature="241:3949" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="295:3947" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="436:537" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="613:1116" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="717:1106" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="956:1092" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="1215:1354" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="1428:2770" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="1573:1687" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="1714:2495" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="2846:3290" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="2991:3105" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="3392:3511" ph="{...}" />
+            <marker date="1527003671038" expanded="true" signature="3530:3682" ph="/// Защита от ввода не чисел ... " />
+            <marker date="1527003671038" expanded="true" signature="3781:3941" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diagrams/DataProvider.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="576">
+          <caret line="35" column="1" selection-start-line="35" selection-start-column="1" selection-end-line="35" selection-end-column="1" />
+          <folding>
+            <marker date="1527184528003" expanded="false" signature="6:129" ph="..." />
+            <marker date="1527184528003" expanded="true" signature="149:943" ph="{...}" />
+            <marker date="1527184528003" expanded="true" signature="188:941" ph="{...}" />
+            <marker date="1527184528003" expanded="true" signature="310:420" ph="/// Для одной серии ... " />
+            <marker date="1527184528003" expanded="true" signature="463:509" ph="{...}" />
+            <marker date="1527184528003" expanded="true" signature="519:636" ph="/// Для нескольких серий ... " />
+            <marker date="1527184528003" expanded="true" signature="687:736" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diagrams/AbstractDiagram.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="619">
+          <caret line="41" column="1" selection-start-line="41" selection-start-column="1" selection-end-line="41" selection-end-column="1" />
+          <folding>
+            <marker date="1527184528055" expanded="false" signature="6:202" ph="..." />
+            <marker date="1527184528055" expanded="true" signature="223:915" ph="{...}" />
+            <marker date="1527184528055" expanded="true" signature="253:338" ph="{...}" />
+            <marker date="1527184528055" expanded="true" signature="390:913" ph="{...}" />
+            <marker date="1527184528055" expanded="true" signature="819:897" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diagrams/NormalizedHistogram.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="8" selection-start-line="8" selection-end-line="8" />
+          <folding>
+            <marker date="1527184527963" expanded="false" signature="6:64" ph="..." />
+            <marker date="1527184527963" expanded="true" signature="84:511" ph="{...}" />
+            <marker date="1527184527963" expanded="true" signature="141:509" ph="{...}" />
+            <marker date="1527184527963" expanded="true" signature="369:402" ph="{...}" />
+            <marker date="1527184527963" expanded="true" signature="461:494" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diagrams/PieChart.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="14" column="52" selection-start-line="14" selection-start-column="52" selection-end-line="14" selection-end-column="52" />
+          <folding>
+            <marker date="1527184528104" expanded="false" signature="6:64" ph="..." />
+            <marker date="1527184528104" expanded="true" signature="84:494" ph="{...}" />
+            <marker date="1527184528104" expanded="true" signature="130:492" ph="{...}" />
+            <marker date="1527184528104" expanded="true" signature="274:307" ph="{...}" />
+            <marker date="1527184528104" expanded="true" signature="361:394" ph="{...}" />
+            <marker date="1527184528104" expanded="true" signature="453:486" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/Diagrams/StackedHistogram.cs">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="648">
+          <caret line="43" column="9" lean-forward="true" selection-start-line="43" selection-start-column="9" selection-end-line="43" selection-end-column="9" />
+          <folding>
+            <marker date="1527184508315" expanded="false" signature="6:198" ph="..." />
+            <marker date="1527184508315" expanded="true" signature="218:1543" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="272:1541" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="386:702" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="409:654" ph="/* for (int k = 0; k &lt; data.Count; k++)//идём по каждой серии ... */" />
+            <marker date="1527184508315" expanded="true" signature="751:1356" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="814:1346" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="1138:1332" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="1410:1443" ph="{...}" />
+            <marker date="1527184508315" expanded="true" signature="1502:1535" ph="{...}" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ScopeChooserConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

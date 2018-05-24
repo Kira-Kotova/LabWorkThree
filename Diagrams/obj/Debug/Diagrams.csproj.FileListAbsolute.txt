@@ -1,0 +1,5 @@
+D:\Aliger\Lulz\Diagrams\Diagrams\bin\Debug\Diagrams.dll
+D:\Aliger\Lulz\Diagrams\Diagrams\bin\Debug\Diagrams.pdb
+D:\Aliger\Lulz\Diagrams\Diagrams\obj\Debug\Diagrams.csprojResolveAssemblyReference.cache
+D:\Aliger\Lulz\Diagrams\Diagrams\obj\Debug\Diagrams.dll
+D:\Aliger\Lulz\Diagrams\Diagrams\obj\Debug\Diagrams.pdb
